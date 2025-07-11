@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+Pillow
+numpy>=1.24,<1.26
+python-multipart
+tflite-runtime==2.13.0
